@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="-Y0Arp-4VtB39YFQDtdc" name="Page-1">
+        <mxGraphModel dx="1105" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="CORE&lt;div&gt;(Controlling and Processing)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="230" width="470" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="DIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="400" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Comm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="400" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="400" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="400" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Interface Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="360" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Interface Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="360" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="HAL library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="490" width="470" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
